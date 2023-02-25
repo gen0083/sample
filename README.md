@@ -6,3 +6,4 @@ text file is there.
 
 - sample
 - test
+- hoge
