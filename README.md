@@ -1,3 +1,3 @@
 # sample
 
-these are README
+this is the README
