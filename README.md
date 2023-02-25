@@ -2,7 +2,7 @@
 
 this is the README
 
-text file is there.
+text is there.
 
 - sample
 - test
