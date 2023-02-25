@@ -1,6 +1,8 @@
 # sample
 
-this is a README
+this is the README
+
+text file is there.
 
 - sample
 - test
